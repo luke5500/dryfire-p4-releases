@@ -1,7 +1,7 @@
 {
- "version": "0.1.1",
- "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.1/dryfire-p4-0.1.1.bin",
- "sha256": "b19444f8e682aba245c8fceade830e59e6427ca395a181692b12fad44dfbcf3f",
+ "version": "0.1.2",
+ "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.2/dryfire-p4-0.1.2.bin",
+ "sha256": "f5f00d2b6521cf0e76d554d45e5baab1caacee984c6b001f97e06342ebeb1680",
  "size": 5836800,
- "notes": "First online P4 release with completed Pi/P4 parity and shared-course compatibility revision 1. Compatible with Pi 0.2.130. Missing or different compatibility revisions require an update; firmware version checks and fleet updates stay within each hardware product."
+ "notes": "Improves tgt-xxxx.local and dryfire.local recovery after startup and Wi-Fi reconnection. Fixes update-page reconnect checks in background tabs and adds a named recovery link. Compatibility revision 1; compatible with Pi 0.2.130."
 }
