@@ -1,0 +1,7 @@
+{
+ "version": "0.1.1",
+ "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.1/dryfire-p4-0.1.1.bin",
+ "sha256": "b19444f8e682aba245c8fceade830e59e6427ca395a181692b12fad44dfbcf3f",
+ "size": 5836800,
+ "notes": "First online P4 release with completed Pi/P4 parity and shared-course compatibility revision 1. Compatible with Pi 0.2.130. Missing or different compatibility revisions require an update; firmware version checks and fleet updates stay within each hardware product."
+}
