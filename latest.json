@@ -1,7 +1,7 @@
 {
- "version": "0.1.3",
- "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.3/dryfire-p4-0.1.3.bin",
- "sha256": "20df8f3c990cf56a0dc4e049b67df90083799ae642000e2b467ea800bc18b983",
+ "version": "0.1.7",
+ "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.7/dryfire-p4-0.1.7.bin",
+ "sha256": "cff7a713937855708558a3e06c4948c003cdf51269b67e58d97f43ace03099d5",
  "size": 5836800,
- "notes": "Fix iPhone shot sounds and repeated course starts after returning to the browser; correctly label other target types as skipped during fleet updates. Reload open course pages after installing."
+ "notes": "Accurate open-page counts and cleaner reconnects. Includes faster shot audio, stable fleet polling, Wi-Fi recovery and head-to-head startup fixes. Reload open course pages after installation."
 }
