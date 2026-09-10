@@ -1,7 +1,7 @@
 {
- "version": "0.1.2",
- "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.2/dryfire-p4-0.1.2.bin",
- "sha256": "f5f00d2b6521cf0e76d554d45e5baab1caacee984c6b001f97e06342ebeb1680",
+ "version": "0.1.3",
+ "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.3/dryfire-p4-0.1.3.bin",
+ "sha256": "20df8f3c990cf56a0dc4e049b67df90083799ae642000e2b467ea800bc18b983",
  "size": 5836800,
- "notes": "Improves tgt-xxxx.local and dryfire.local recovery after startup and Wi-Fi reconnection. Fixes update-page reconnect checks in background tabs and adds a named recovery link. Compatibility revision 1; compatible with Pi 0.2.130."
+ "notes": "Fix iPhone shot sounds and repeated course starts after returning to the browser; correctly label other target types as skipped during fleet updates. Reload open course pages after installing."
 }
