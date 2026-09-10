@@ -1,7 +1,7 @@
 {
- "version": "0.1.7",
- "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.7/dryfire-p4-0.1.7.bin",
- "sha256": "cff7a713937855708558a3e06c4948c003cdf51269b67e58d97f43ace03099d5",
+ "version": "0.1.8",
+ "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.8/dryfire-p4-0.1.8.bin",
+ "sha256": "b74289cb7a95145296024e6be7ce476ab44d4004b7096f39bab6d2081644dcfe",
  "size": 5836800,
- "notes": "Accurate open-page counts and cleaner reconnects. Includes faster shot audio, stable fleet polling, Wi-Fi recovery and head-to-head startup fixes. Reload open course pages after installation."
+ "notes": "Fix targets disappearing when discovery announcements are missed. Direct health checks determine reachability, tolerate brief interruptions, and track recovery. Includes all prior fleet, audio and local-address fixes."
 }
