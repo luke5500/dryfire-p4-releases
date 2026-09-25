@@ -1,7 +1,7 @@
 {
- "version": "0.1.8",
- "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.8/dryfire-p4-0.1.8.bin",
- "sha256": "b74289cb7a95145296024e6be7ce476ab44d4004b7096f39bab6d2081644dcfe",
+ "version": "0.1.14",
+ "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.14/dryfire-p4-0.1.14.bin",
+ "sha256": "799a8bbf8eefd981b7f8c72433703272b6a7970814f450917994ed5c7c4b8b58",
  "size": 5836800,
- "notes": "Fix targets disappearing when discovery announcements are missed. Direct health checks determine reachability, tolerate brief interruptions, and track recovery. Includes all prior fleet, audio and local-address fixes."
+ "notes": "Smoother camera alignment with a stable calibration handoff; optional MAX17048 battery level and voltage display; improved audio recovery and sound-download retries; removes the silent-audio loop that could create an idle lock-screen player. Includes earlier fleet and update fixes."
 }
