@@ -1,7 +1,7 @@
 {
- "version": "0.1.14",
- "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.14/dryfire-p4-0.1.14.bin",
- "sha256": "799a8bbf8eefd981b7f8c72433703272b6a7970814f450917994ed5c7c4b8b58",
+ "version": "0.1.18",
+ "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.18/dryfire-p4-0.1.18.bin",
+ "sha256": "ecdb5fe953b5a2666cd9901fdd53e6bdedfa769f824b39efe2856deeb0c7ecb8",
  "size": 5836800,
- "notes": "Smoother camera alignment with a stable calibration handoff; optional MAX17048 battery level and voltage display; improved audio recovery and sound-download retries; removes the silent-audio loop that could create an idle lock-screen player. Includes earlier fleet and update fixes."
+ "notes": "Improves local-address and match reconnect recovery, locks course setup during active sessions, and makes shot-review photos more reliable."
 }
