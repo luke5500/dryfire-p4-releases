@@ -1,24 +1,24 @@
 {
   "schema": 2,
-  "version": "0.1.25",
-  "notes": "Revision-aware updates for P4 v1.x and v3.x, responsive fleet progress, clearer validation errors, and recovery/battery hardening.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.25/dryfire-p4-0.1.25-rev1.bin",
-  "sha256": "6ca54d809662d7a1ebb433c8a95759545e4aebad04b0e394a28a78490ce6a42e",
+  "version": "0.1.29",
+  "notes": "Immediate five-second reconnect countdown, stable target addresses, and reliable fleet updates for both P4 revisions.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.29/dryfire-p4-0.1.29-rev1.bin",
+  "sha256": "7e0147739500212b96985263309ecb88d5b26a1cedef73442a8fe9c1837ee74a",
   "size": 5836800,
   "variants": {
     "rev1": {
-      "sha256": "6ca54d809662d7a1ebb433c8a95759545e4aebad04b0e394a28a78490ce6a42e",
+      "sha256": "7e0147739500212b96985263309ecb88d5b26a1cedef73442a8fe9c1837ee74a",
       "size": 5836800,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.25/dryfire-p4-0.1.25-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.29/dryfire-p4-0.1.29-rev1.bin"
     },
     "rev3": {
-      "sha256": "15e9f80dd698514657bbdb07738edb4cd91a278d282a9a6825148fb8896fef69",
+      "sha256": "5d549772a81b920b2344b19b2fbbd6b47dc3aceda99e020afe24946b2a134af6",
       "size": 5902336,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.25/dryfire-p4-0.1.25-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.29/dryfire-p4-0.1.29-rev3.bin"
     }
   }
 }
