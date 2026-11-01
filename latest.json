@@ -1,24 +1,24 @@
 {
   "schema": 2,
-  "version": "0.1.29",
-  "notes": "Immediate five-second reconnect countdown, stable target addresses, and reliable fleet updates for both P4 revisions.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.29/dryfire-p4-0.1.29-rev1.bin",
-  "sha256": "7e0147739500212b96985263309ecb88d5b26a1cedef73442a8fe9c1837ee74a",
-  "size": 5836800,
+  "version": "0.1.31",
+  "notes": "Recorded get-ready countdown for the final ten seconds, with matching Roger voice prompts: Are you ready? and Stand by! Improved iPhone countdown audio, immediate Stop cancellation, and signed updates for both P4 revisions.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.31/dryfire-p4-0.1.31-rev1.bin",
+  "sha256": "53292c506055329e81aab82f2a34d9c285e158e6126670aad417c66d8f0cb4cd",
+  "size": 6098944,
   "variants": {
     "rev1": {
-      "sha256": "7e0147739500212b96985263309ecb88d5b26a1cedef73442a8fe9c1837ee74a",
-      "size": 5836800,
+      "sha256": "53292c506055329e81aab82f2a34d9c285e158e6126670aad417c66d8f0cb4cd",
+      "size": 6098944,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.29/dryfire-p4-0.1.29-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.31/dryfire-p4-0.1.31-rev1.bin"
     },
     "rev3": {
-      "sha256": "5d549772a81b920b2344b19b2fbbd6b47dc3aceda99e020afe24946b2a134af6",
-      "size": 5902336,
+      "sha256": "5da5da71a82632d3a7d4cbd2c9407e989c94420d541d9df5bcd14d446bf0b8fe",
+      "size": 6098944,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.29/dryfire-p4-0.1.29-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.31/dryfire-p4-0.1.31-rev3.bin"
     }
   }
 }
