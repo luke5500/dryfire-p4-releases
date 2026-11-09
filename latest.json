@@ -1,24 +1,24 @@
 {
   "schema": 2,
-  "version": "0.1.32",
-  "notes": "Clear, actionable camera lighting guidance. Camera frame rate and exposure duration are shown separately, sleeping-camera measurements are labelled as historical, and diagnostic exposure tests are distinguished from normal readiness. Exposure and detection algorithms are unchanged.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.32/dryfire-p4-0.1.32-rev1.bin",
-  "sha256": "dcc5136ff345094c5ff1e0d8c83ae2a30b3f78fafdedf449c138780e09fbb2e8",
+  "version": "0.1.35",
+  "notes": "Match shows when targets need calibration and restores Ready to train after calibration succeeds. Camera and Match identify duplicate numbered sheets and explain how to recalibrate.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.35/dryfire-p4-0.1.35-rev1.bin",
+  "sha256": "93e0d2c323e9c1b36630eb7921581fe48b6e17c22e91649dd2b2dcd26d3f1b2f",
   "size": 6098944,
   "variants": {
     "rev1": {
-      "sha256": "dcc5136ff345094c5ff1e0d8c83ae2a30b3f78fafdedf449c138780e09fbb2e8",
+      "sha256": "93e0d2c323e9c1b36630eb7921581fe48b6e17c22e91649dd2b2dcd26d3f1b2f",
       "size": 6098944,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.32/dryfire-p4-0.1.32-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.35/dryfire-p4-0.1.35-rev1.bin"
     },
     "rev3": {
-      "sha256": "f291fd4392a4bdaa1c89bf84d48b1c325589f51271386a38c766e25ba06df06d",
-      "size": 6098944,
+      "sha256": "1e6248b030a505ee48d9e20e1ced5538beb3c311e257f3f0c7bcb5953f78e392",
+      "size": 6164480,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.32/dryfire-p4-0.1.32-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.35/dryfire-p4-0.1.35-rev3.bin"
     }
   }
 }
