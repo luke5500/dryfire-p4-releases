@@ -1,24 +1,24 @@
 {
   "schema": 2,
-  "version": "0.1.35",
-  "notes": "Match shows when targets need calibration and restores Ready to train after calibration succeeds. Camera and Match identify duplicate numbered sheets and explain how to recalibrate.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.35/dryfire-p4-0.1.35-rev1.bin",
-  "sha256": "93e0d2c323e9c1b36630eb7921581fe48b6e17c22e91649dd2b2dcd26d3f1b2f",
-  "size": 6098944,
+  "version": "0.1.38",
+  "notes": "Fixes countdown cancel/restart and delayed Start/Stop handling. Adds clearer recovery guidance, once-per-boot automatic update checks, safer battery cleanup and network/input reliability improvements. Includes signed images for both P4 hardware revisions.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.38/dryfire-p4-0.1.38-rev1.bin",
+  "sha256": "a228d50b9cee30229117938b2943befa36b73608d6360f379668a6e429a3cc07",
+  "size": 6164480,
   "variants": {
     "rev1": {
-      "sha256": "93e0d2c323e9c1b36630eb7921581fe48b6e17c22e91649dd2b2dcd26d3f1b2f",
-      "size": 6098944,
+      "sha256": "a228d50b9cee30229117938b2943befa36b73608d6360f379668a6e429a3cc07",
+      "size": 6164480,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.35/dryfire-p4-0.1.35-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.38/dryfire-p4-0.1.38-rev1.bin"
     },
     "rev3": {
-      "sha256": "1e6248b030a505ee48d9e20e1ced5538beb3c311e257f3f0c7bcb5953f78e392",
+      "sha256": "9a1562a35c155dc272aaa6bae428737123e5bb22b703d82460c64e30facdf2ac",
       "size": 6164480,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.35/dryfire-p4-0.1.35-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.38/dryfire-p4-0.1.38-rev3.bin"
     }
   }
 }
