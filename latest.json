@@ -1,25 +1,25 @@
 {
   "schema": 2,
-  "version": "0.1.41",
-  "notes": "Hardens saved data and peer synchronization, preserves permanent deletions across restarts, bounds malformed peer records and memory use, and protects existing history during imports. Includes both P4 revisions.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.41/dryfire-p4-0.1.41-rev1.bin",
-  "sha256": "044222a03b2198889b9e82586ab2f30cdd1a7418fb9e0468989e4611e5aa45e1",
+  "version": "0.1.45",
+  "notes": "Responsive course Start/Stop, protected course ownership, and background storage sync. Clears stale preparation notices. Course protocol revision 2: update all selected P4 targets together; current Pi firmware cannot join these courses.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.45/dryfire-p4-0.1.45-rev1.bin",
+  "sha256": "22bed133766e25e8d9c5a8bd8c5c83d8eb195b06673d0fdb1422a460c39bd771",
   "size": 6164480,
   "variants": {
     "rev1": {
-      "sha256": "044222a03b2198889b9e82586ab2f30cdd1a7418fb9e0468989e4611e5aa45e1",
+      "sha256": "22bed133766e25e8d9c5a8bd8c5c83d8eb195b06673d0fdb1422a460c39bd771",
       "size": 6164480,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.41/dryfire-p4-0.1.41-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.45/dryfire-p4-0.1.45-rev1.bin"
     },
     "rev3": {
-      "sha256": "14bd07c45f7444edc4f9fdc608174acd39316acd76e13909b2025632e2f69c34",
+      "sha256": "8997fc28837064d3a1329b4c20975db33b268a16a111435b18c24ec230bf8884",
       "size": 6164480,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.41/dryfire-p4-0.1.41-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.45/dryfire-p4-0.1.45-rev3.bin"
     }
   },
-  "source_commit": "5c0ddde402a4f1db80d25016777648fe4f644fc4"
+  "source_commit": "6bbe1e02bc0bc69f847266db896618d2c674e1eb"
 }
