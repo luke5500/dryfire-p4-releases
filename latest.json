@@ -1,25 +1,25 @@
 {
   "schema": 2,
-  "version": "0.1.47",
-  "notes": "Calibration safety, stable target definitions and images, complete duplicate reset, and removal of false extra-sheet warnings. Both P4 revisions supported; compatibility revision 2 unchanged.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.47/dryfire-p4-0.1.47-rev1.bin",
-  "sha256": "42dd3de7e11cdc157c3fb32673b6417558160e95918bd7baf090735cc382464e",
+  "version": "0.1.49",
+  "notes": "Keeps course controls responsive during History reads, recovers busy notices, caches saved Follow review and safely refuses missing shooter offsets. Includes both P4 revisions.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.49/dryfire-p4-0.1.49-rev1.bin",
+  "sha256": "c3625404938738ed0cbc64ad7a934f956d5cf3cb1e5b1e94ced59efea5564a2e",
   "size": 6164480,
   "variants": {
     "rev1": {
-      "sha256": "42dd3de7e11cdc157c3fb32673b6417558160e95918bd7baf090735cc382464e",
+      "sha256": "c3625404938738ed0cbc64ad7a934f956d5cf3cb1e5b1e94ced59efea5564a2e",
       "size": 6164480,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.47/dryfire-p4-0.1.47-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.49/dryfire-p4-0.1.49-rev1.bin"
     },
     "rev3": {
-      "sha256": "53e32263fcc578553d03a019ccd9667c632bdd5cd90eb5313a25a6dbe0c593bd",
+      "sha256": "28439d59e6a1f77ddf662cac7266505950ef96d026155895c811f3b248414ae2",
       "size": 6164480,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.47/dryfire-p4-0.1.47-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.49/dryfire-p4-0.1.49-rev3.bin"
     }
   },
-  "source_commit": "d33b1f41d3bb0a3481f196be8f8dd3f53bd98b03"
+  "source_commit": "84c32e11e50495ae9c4560b1822455a167b20efb"
 }
