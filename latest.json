@@ -1,24 +1,25 @@
 {
   "schema": 2,
-  "version": "0.1.38",
-  "notes": "Fixes countdown cancel/restart and delayed Start/Stop handling. Adds clearer recovery guidance, once-per-boot automatic update checks, safer battery cleanup and network/input reliability improvements. Includes signed images for both P4 hardware revisions.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.38/dryfire-p4-0.1.38-rev1.bin",
-  "sha256": "a228d50b9cee30229117938b2943befa36b73608d6360f379668a6e429a3cc07",
-  "size": 6164480,
+  "version": "0.1.39",
+  "notes": "Build and provisioning safeguards: self-contained assets, pinned toolchain and verified production images, safer USB flashing and licence recovery.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.39/dryfire-p4-0.1.39-rev1.bin",
+  "sha256": "426678eb9a3d6da789ee3c51ee2d310e941ea2f5ec431c3057fe46d8570693e0",
+  "size": 6098944,
   "variants": {
     "rev1": {
-      "sha256": "a228d50b9cee30229117938b2943befa36b73608d6360f379668a6e429a3cc07",
-      "size": 6164480,
+      "sha256": "426678eb9a3d6da789ee3c51ee2d310e941ea2f5ec431c3057fe46d8570693e0",
+      "size": 6098944,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.38/dryfire-p4-0.1.38-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.39/dryfire-p4-0.1.39-rev1.bin"
     },
     "rev3": {
-      "sha256": "9a1562a35c155dc272aaa6bae428737123e5bb22b703d82460c64e30facdf2ac",
+      "sha256": "ff269845a16c2bd194ee6b358cf8a481a155ad5cb01bedd63d5db38cd8600e94",
       "size": 6164480,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.38/dryfire-p4-0.1.38-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.39/dryfire-p4-0.1.39-rev3.bin"
     }
-  }
+  },
+  "source_commit": "1cfadacb61f9a0cbd7094b8360f32cec65b2415d"
 }
