@@ -1,25 +1,25 @@
 {
   "schema": 2,
-  "version": "0.1.39",
-  "notes": "Build and provisioning safeguards: self-contained assets, pinned toolchain and verified production images, safer USB flashing and licence recovery.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.39/dryfire-p4-0.1.39-rev1.bin",
-  "sha256": "426678eb9a3d6da789ee3c51ee2d310e941ea2f5ec431c3057fe46d8570693e0",
-  "size": 6098944,
+  "version": "0.1.40",
+  "notes": "Radio recovery hardening and downgrade protection. Verified radio payloads, persistent two-attempt recovery limit, clean factory-radio restart, and clear rejection of older firmware. Both P4 revisions supported.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.40/dryfire-p4-0.1.40-rev1.bin",
+  "sha256": "d87cbd69392fa898671ee6b205024b2b5fc18b5334ca02c0261cb514de8013d0",
+  "size": 6164480,
   "variants": {
     "rev1": {
-      "sha256": "426678eb9a3d6da789ee3c51ee2d310e941ea2f5ec431c3057fe46d8570693e0",
-      "size": 6098944,
+      "sha256": "d87cbd69392fa898671ee6b205024b2b5fc18b5334ca02c0261cb514de8013d0",
+      "size": 6164480,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.39/dryfire-p4-0.1.39-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.40/dryfire-p4-0.1.40-rev1.bin"
     },
     "rev3": {
-      "sha256": "ff269845a16c2bd194ee6b358cf8a481a155ad5cb01bedd63d5db38cd8600e94",
+      "sha256": "499ebf42422685cf0d156b29553464753175aa031b871f588abf977d90131b3d",
       "size": 6164480,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.39/dryfire-p4-0.1.39-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.40/dryfire-p4-0.1.40-rev3.bin"
     }
   },
-  "source_commit": "1cfadacb61f9a0cbd7094b8360f32cec65b2415d"
+  "source_commit": "5a14b9277ef9541026c34320ab132f96e44c7e4e"
 }
