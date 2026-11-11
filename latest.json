@@ -1,25 +1,25 @@
 {
   "schema": 2,
-  "version": "0.1.49",
-  "notes": "Keeps course controls responsive during History reads, recovers busy notices, caches saved Follow review and safely refuses missing shooter offsets. Includes both P4 revisions.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.49/dryfire-p4-0.1.49-rev1.bin",
-  "sha256": "c3625404938738ed0cbc64ad7a934f956d5cf3cb1e5b1e94ced59efea5564a2e",
+  "version": "0.1.52",
+  "notes": "Responsive updates, Wi-Fi scans and downloads; calibration-photo recovery and safe preview cleanup. Verified on both P4 revisions with repeated shot/audio courses. Intermittent connection and .local failures remain under investigation.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.52/dryfire-p4-0.1.52-rev1.bin",
+  "sha256": "9336053a04279331cdb0d5e1d788ea7467d55cf23ab77b07a87b5c1c8b8c004e",
   "size": 6164480,
   "variants": {
     "rev1": {
-      "sha256": "c3625404938738ed0cbc64ad7a934f956d5cf3cb1e5b1e94ced59efea5564a2e",
+      "sha256": "9336053a04279331cdb0d5e1d788ea7467d55cf23ab77b07a87b5c1c8b8c004e",
       "size": 6164480,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.49/dryfire-p4-0.1.49-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.52/dryfire-p4-0.1.52-rev1.bin"
     },
     "rev3": {
-      "sha256": "28439d59e6a1f77ddf662cac7266505950ef96d026155895c811f3b248414ae2",
+      "sha256": "ab99119693e719f772ae45b86243c9fd96553ad3fe3fba16e1c434ab4a414f5e",
       "size": 6164480,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.49/dryfire-p4-0.1.49-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.52/dryfire-p4-0.1.52-rev3.bin"
     }
   },
-  "source_commit": "84c32e11e50495ae9c4560b1822455a167b20efb"
+  "source_commit": "25f0ca4671ab22dfa8cd2132dfacfedc96c9fd97"
 }
