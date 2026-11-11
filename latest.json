@@ -1,25 +1,25 @@
 {
   "schema": 2,
-  "version": "0.1.52",
-  "notes": "Responsive updates, Wi-Fi scans and downloads; calibration-photo recovery and safe preview cleanup. Verified on both P4 revisions with repeated shot/audio courses. Intermittent connection and .local failures remain under investigation.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.52/dryfire-p4-0.1.52-rev1.bin",
-  "sha256": "9336053a04279331cdb0d5e1d788ea7467d55cf23ab77b07a87b5c1c8b8c004e",
-  "size": 6164480,
+  "version": "0.1.58",
+  "notes": "Browser startup and control recovery; per-sheet shooter offsets and selection; history/review fixes; correct Stop wording. Compatibility revision 4: update all selected P4 units.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.58/dryfire-p4-0.1.58-rev1.bin",
+  "sha256": "0a3379c0626833e20944e32f6acc519a8b3577c6de0bf686f33ee17068269876",
+  "size": 6033408,
   "variants": {
     "rev1": {
-      "sha256": "9336053a04279331cdb0d5e1d788ea7467d55cf23ab77b07a87b5c1c8b8c004e",
-      "size": 6164480,
+      "sha256": "0a3379c0626833e20944e32f6acc519a8b3577c6de0bf686f33ee17068269876",
+      "size": 6033408,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.52/dryfire-p4-0.1.52-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.58/dryfire-p4-0.1.58-rev1.bin"
     },
     "rev3": {
-      "sha256": "ab99119693e719f772ae45b86243c9fd96553ad3fe3fba16e1c434ab4a414f5e",
-      "size": 6164480,
+      "sha256": "93d673b2636c4f5a7fb02b1bb27bdcbcc28d289e6a454f10e8720824ac2c858c",
+      "size": 6033408,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.52/dryfire-p4-0.1.52-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.58/dryfire-p4-0.1.58-rev3.bin"
     }
   },
-  "source_commit": "25f0ca4671ab22dfa8cd2132dfacfedc96c9fd97"
+  "source_commit": "a425fe87acbcc001721bdf6245c46f139db460b4"
 }
