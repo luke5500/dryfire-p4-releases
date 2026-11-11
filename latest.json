@@ -1,25 +1,25 @@
 {
   "schema": 2,
-  "version": "0.1.61",
-  "notes": "Cross-site request protection, automatic hotspot setup compatibility, and reliable bench shot readiness. Supports both P4 revisions; course compatibility remains 4.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.61/dryfire-p4-0.1.61-rev1.bin",
-  "sha256": "e3026fb95332e4b6f15bcc90d83ec2c1583d9e0d32f6532324c53a565ec29599",
+  "version": "0.1.63",
+  "notes": "Bounded peer requests, reliable transfer recovery, and offline calendar clock hardening. Both P4 revisions; course compatibility remains 4. Offline-router hardware acceptance remains deferred.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.63/dryfire-p4-0.1.63-rev1.bin",
+  "sha256": "cf42f901ab74cee4c49fffd85469d5725aec3f47b76436a294fd9731ed7c2d1f",
   "size": 6033408,
   "variants": {
     "rev1": {
-      "sha256": "e3026fb95332e4b6f15bcc90d83ec2c1583d9e0d32f6532324c53a565ec29599",
+      "sha256": "cf42f901ab74cee4c49fffd85469d5725aec3f47b76436a294fd9731ed7c2d1f",
       "size": 6033408,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.61/dryfire-p4-0.1.61-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.63/dryfire-p4-0.1.63-rev1.bin"
     },
     "rev3": {
-      "sha256": "c6358ee2898daaed20f653ab7883314c2f062c582f3e18eadc7f2ded4ebb7b0f",
+      "sha256": "ffae4d368c3526ef2c9fd32a6a01b2b44fafd140f51b3eb7c1eec0ad917d1b66",
       "size": 6033408,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.61/dryfire-p4-0.1.61-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.63/dryfire-p4-0.1.63-rev3.bin"
     }
   },
-  "source_commit": "b1ce5404ed7344803150e899263558525fce9040"
+  "source_commit": "931bafc032bb2f11d6ae22968b19b316a8bd30ec"
 }
