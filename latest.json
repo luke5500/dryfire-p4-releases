@@ -1,27 +1,27 @@
 {
   "schema": 2,
-  "version": "0.1.83",
-  "notes": "Camera verification and recovery, network memory hardening, storage safeguards and compact camera/target headers; signed builds for both P4 revisions.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.83/dryfire-p4-0.1.83-rev1.bin",
-  "sha256": "e0632bb623a770e91237fc025e868d94b0483dcfe31d55814375f96ce5f8f9ed",
+  "version": "0.1.85",
+  "notes": "Fix idle camera movement recovery when continuous detections blocked recalibration. Preserve Start scene verification, shot timing and exposure selection. Includes cooldown and sleep-grace safeguards. Requires layout 3; separate signed images for P4 v1.x and v3.x.\r\n",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.85/dryfire-p4-0.1.85-rev1.bin",
+  "sha256": "4a08d819c43d696192c57cae8390fa441ea2f50175a95846442a1c3ea8f944ec",
   "size": 6033408,
   "variants": {
     "rev1": {
-      "sha256": "e0632bb623a770e91237fc025e868d94b0483dcfe31d55814375f96ce5f8f9ed",
+      "sha256": "4a08d819c43d696192c57cae8390fa441ea2f50175a95846442a1c3ea8f944ec",
       "size": 6033408,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.83/dryfire-p4-0.1.83-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.85/dryfire-p4-0.1.85-rev1.bin"
     },
     "rev3": {
-      "sha256": "46779b391a61621112036f7e5bacbddc782f7f9c84926f71ddf573459ec99911",
+      "sha256": "649413e8ba41e16a155f37d7d8b48b2af06cc8552a7d0ed9af5c9a1dfdd2673c",
       "size": 6033408,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.83/dryfire-p4-0.1.83-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.85/dryfire-p4-0.1.85-rev3.bin"
     }
   },
-  "source_commit": "0f59704fca93c86550e9d56aa1bd647117bb4337"
+  "source_commit": "46c87f9082270bb0a1fc05fbfaf5abb9b92bf147"
 }
