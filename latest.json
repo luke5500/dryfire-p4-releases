@@ -1,27 +1,27 @@
 {
   "schema": 2,
-  "version": "0.1.116",
-  "notes": "Mobile Results/Targets/Settings tabs, printed sheet IDs and camera-photo Zero chooser; reliable fleet Zero saves with explicit acknowledgement. Includes both ESP32-P4 revisions; layout 3 required.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.116/dryfire-p4-0.1.116-rev1.bin",
-  "sha256": "f68d67a2d53f75148e9c609ee2eefafc3362c4095f63f0c8746984f6f0975e1b",
+  "version": "0.1.117",
+  "notes": "Factory serial-port picker for multiple USB devices, with cancellation and unchanged chip/identity safeguards. Camera runtime unchanged from 0.1.116. Both P4 revisions; layout 3.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.117/dryfire-p4-0.1.117-rev1.bin",
+  "sha256": "ffab1517ebe86f05d76821037b960f9452f57f735d320cb77a93c199c41ff49f",
   "size": 6098944,
   "variants": {
     "rev1": {
-      "sha256": "f68d67a2d53f75148e9c609ee2eefafc3362c4095f63f0c8746984f6f0975e1b",
+      "sha256": "ffab1517ebe86f05d76821037b960f9452f57f735d320cb77a93c199c41ff49f",
       "size": 6098944,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.116/dryfire-p4-0.1.116-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.117/dryfire-p4-0.1.117-rev1.bin"
     },
     "rev3": {
-      "sha256": "8c1a2cf7fd3b1f91b318b13db5961d24c64f18b1d5a527e88db6143cfe27d562",
+      "sha256": "156c0a0017cad61eddf98a820f149341ced9a761b212622ef0aba5c4707f57b5",
       "size": 6098944,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.116/dryfire-p4-0.1.116-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.117/dryfire-p4-0.1.117-rev3.bin"
     }
   },
-  "source_commit": "c8548ea1510934c84606f19b46126c07b7493060"
+  "source_commit": "32173a31d91edb7c25dc64ea14e58f28bd693b40"
 }
