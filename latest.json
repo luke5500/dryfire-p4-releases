@@ -1,27 +1,27 @@
 {
   "schema": 2,
-  "version": "0.1.85",
-  "notes": "Fix idle camera movement recovery when continuous detections blocked recalibration. Preserve Start scene verification, shot timing and exposure selection. Includes cooldown and sleep-grace safeguards. Requires layout 3; separate signed images for P4 v1.x and v3.x.\r\n",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.85/dryfire-p4-0.1.85-rev1.bin",
-  "sha256": "4a08d819c43d696192c57cae8390fa441ea2f50175a95846442a1c3ea8f944ec",
-  "size": 6033408,
+  "version": "0.1.111",
+  "notes": "Improves iPhone audio and controls, camera connection recovery and photo review; updates battery indicators and prevents history sharing from blocking course Start. Requires layout 3.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.111/dryfire-p4-0.1.111-rev1.bin",
+  "sha256": "adc132f5ae9f78afcd9d021e5113d80b44faf93b09902d19d501eb7e0ef401a7",
+  "size": 6098944,
   "variants": {
     "rev1": {
-      "sha256": "4a08d819c43d696192c57cae8390fa441ea2f50175a95846442a1c3ea8f944ec",
-      "size": 6033408,
+      "sha256": "adc132f5ae9f78afcd9d021e5113d80b44faf93b09902d19d501eb7e0ef401a7",
+      "size": 6098944,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.85/dryfire-p4-0.1.85-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.111/dryfire-p4-0.1.111-rev1.bin"
     },
     "rev3": {
-      "sha256": "649413e8ba41e16a155f37d7d8b48b2af06cc8552a7d0ed9af5c9a1dfdd2673c",
-      "size": 6033408,
+      "sha256": "b4724c742dabb1d3fe8c060ca8488bc6e399d1b13808b31b61671bee74ecaf55",
+      "size": 6098944,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.85/dryfire-p4-0.1.85-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.111/dryfire-p4-0.1.111-rev3.bin"
     }
   },
-  "source_commit": "46c87f9082270bb0a1fc05fbfaf5abb9b92bf147"
+  "source_commit": "b660cac299046c06c43a9291c463879d8a2c66d0"
 }
