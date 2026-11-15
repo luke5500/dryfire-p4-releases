@@ -1,27 +1,27 @@
 {
   "schema": 2,
-  "version": "0.1.117",
-  "notes": "Factory serial-port picker for multiple USB devices, with cancellation and unchanged chip/identity safeguards. Camera runtime unchanged from 0.1.116. Both P4 revisions; layout 3.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.117/dryfire-p4-0.1.117-rev1.bin",
-  "sha256": "ffab1517ebe86f05d76821037b960f9452f57f735d320cb77a93c199c41ff49f",
+  "version": "0.1.120",
+  "notes": "Saved Wi-Fi rows provide Disconnect/Connect without deleting passwords. Clear setup/join instructions, bounded connection recovery and camera identity protection. Both P4 revisions; layout 3.",
+  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.120/dryfire-p4-0.1.120-rev1.bin",
+  "sha256": "55c5a60ca3823be30a8df9f2d4c4709f1d0e9b67e71f0ad68a4a723cc32c5336",
   "size": 6098944,
   "variants": {
     "rev1": {
-      "sha256": "ffab1517ebe86f05d76821037b960f9452f57f735d320cb77a93c199c41ff49f",
+      "sha256": "55c5a60ca3823be30a8df9f2d4c4709f1d0e9b67e71f0ad68a4a723cc32c5336",
       "size": 6098944,
       "chip_revision_min": 100,
       "chip_revision_max": 199,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.117/dryfire-p4-0.1.117-rev1.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.120/dryfire-p4-0.1.120-rev1.bin"
     },
     "rev3": {
-      "sha256": "156c0a0017cad61eddf98a820f149341ced9a761b212622ef0aba5c4707f57b5",
+      "sha256": "d66a268e52acf8ab51484b03e54eef8abfade0999e76417b1fdc4e8f78856792",
       "size": 6098944,
       "chip_revision_min": 301,
       "chip_revision_max": 399,
       "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.117/dryfire-p4-0.1.117-rev3.bin"
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.120/dryfire-p4-0.1.120-rev3.bin"
     }
   },
-  "source_commit": "32173a31d91edb7c25dc64ea14e58f28bd693b40"
+  "source_commit": "9afd443a2b3b2b586f769ceae851ba7001fe0a2f"
 }
