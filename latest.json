@@ -1,27 +1,6 @@
 {
-  "schema": 2,
-  "version": "0.1.120",
-  "notes": "Saved Wi-Fi rows provide Disconnect/Connect without deleting passwords. Clear setup/join instructions, bounded connection recovery and camera identity protection. Both P4 revisions; layout 3.",
-  "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.120/dryfire-p4-0.1.120-rev1.bin",
-  "sha256": "55c5a60ca3823be30a8df9f2d4c4709f1d0e9b67e71f0ad68a4a723cc32c5336",
-  "size": 6098944,
-  "variants": {
-    "rev1": {
-      "sha256": "55c5a60ca3823be30a8df9f2d4c4709f1d0e9b67e71f0ad68a4a723cc32c5336",
-      "size": 6098944,
-      "chip_revision_min": 100,
-      "chip_revision_max": 199,
-      "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.120/dryfire-p4-0.1.120-rev1.bin"
-    },
-    "rev3": {
-      "sha256": "d66a268e52acf8ab51484b03e54eef8abfade0999e76417b1fdc4e8f78856792",
-      "size": 6098944,
-      "chip_revision_min": 301,
-      "chip_revision_max": 399,
-      "minimum_layout": 3,
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.120/dryfire-p4-0.1.120-rev3.bin"
-    }
-  },
-  "source_commit": "9afd443a2b3b2b586f769ceae851ba7001fe0a2f"
+  "schema": 3,
+  "retired": true,
+  "notes": "Unsecured P4 updates have been retired. Use owner-authorized Production Station USB migration. Secured units use secure/latest.json.",
+  "secure_feed": "https://raw.githubusercontent.com/luke5500/dryfire-p4-releases/main/secure/latest.json"
 }
