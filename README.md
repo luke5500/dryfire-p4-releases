@@ -1,11 +1,12 @@
-# DryFire P4 releases
+# DryFire secured P4 firmware
 
-Signed firmware updates for DryFire ESP32-P4 target modules.
+This repository distributes encrypted updates for secured DryFire P4 units.
+The live update manifest is [secure/latest.json](secure/latest.json).
+Each supported P4 revision has its own authenticated encrypted `.dfu` payload.
 
-Use the module's Software update page to check for and install updates. Firmware downloads are available in this repository's Releases section. The latest.json manifest is consumed by the P4 updater.
+Unsecured `.bin` releases and the old root update feed are retired.
+Existing unsecured lab boards require the owner-authorized Production Station
+USB migration; downloading a secured OTA does not perform that migration.
 
-These BIN images are for P4 units only. Raspberry Pi units use the separate luke5500/dryfire-releases feed and ZIP packages.
-
-Firmware versions are independent across hardware products. Units in a shared course must report the same compatibility revision. P4 0.1.1 and Pi 0.2.130 both use compatibility revision 1.
-
-This repository contains release artifacts and the update manifest. Signing keys are never distributed here.
+Source, factory packages, signing keys and per-board recovery archives are not
+published here. Product source remains in the separate private repository.
