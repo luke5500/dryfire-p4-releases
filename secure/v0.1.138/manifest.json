@@ -1,0 +1,32 @@
+{
+  "schema": 2,
+  "version": "0.1.138",
+  "variants": {
+    "rev1": {
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.138/dryfire-p4-0.1.138-rev1.dfu",
+      "size": 6164992,
+      "sha256": "dd71d0a8d4b71715054ab93baa482747dbfd0ca6b255f438c48a461a0995a022",
+      "chip_revision_min": 100,
+      "chip_revision_max": 199,
+      "minimum_layout": 4,
+      "security_profile": "secure-production-v1",
+      "package_format": "esp-ecc256-rsa3072-v1",
+      "transport_key_id": "3ea72f9300a398d0332e0a4141e41ab88f777393cfb679455361124afe1aafe4",
+      "signer_id": "9d5d1ac2cf5b7c8c8ec2abac23a2b293bf98928819b1469337008b51d90050fb"
+    },
+    "rev3": {
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.138/dryfire-p4-0.1.138-rev3.dfu",
+      "size": 6164992,
+      "sha256": "b711c9e18cb25e5b50813f51435b1f09dce53c2604d173677b26302a33e103fe",
+      "chip_revision_min": 301,
+      "chip_revision_max": 399,
+      "minimum_layout": 4,
+      "security_profile": "secure-production-v1",
+      "package_format": "esp-ecc256-rsa3072-v1",
+      "transport_key_id": "3ea72f9300a398d0332e0a4141e41ab88f777393cfb679455361124afe1aafe4",
+      "signer_id": "9d5d1ac2cf5b7c8c8ec2abac23a2b293bf98928819b1469337008b51d90050fb"
+    }
+  },
+  "notes": "Secured P4 production firmware; encrypted updates for both P4 revisions.",
+  "source_commit": "11da2666cc02a9fe22d738fd8c0978909fed9455"
+}
