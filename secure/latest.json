@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "version": "0.1.148",
+  "version": "0.1.151",
   "variants": {
     "rev1": {
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.148/dryfire-p4-0.1.148-rev1.dfu",
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.151/dryfire-p4-0.1.151-rev1.dfu",
       "size": 6164992,
-      "sha256": "efccfebddf98682698b2f59b938ca4399efec976a4490be07267c3c914b410fd",
+      "sha256": "887e9b1b5b9b39086770a10ecb0cbca1c8b6d5f12441bd115612598413251992",
       "chip_revision_min": 100,
       "chip_revision_max": 199,
       "minimum_layout": 4,
@@ -15,9 +15,9 @@
       "signer_id": "9d5d1ac2cf5b7c8c8ec2abac23a2b293bf98928819b1469337008b51d90050fb"
     },
     "rev3": {
-      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.148/dryfire-p4-0.1.148-rev3.dfu",
-      "size": 6164992,
-      "sha256": "4e04e948a8a9ac7d649b9e26b64857b9c0d99545da6f3ecc9f0c81bafcb7fd34",
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.151/dryfire-p4-0.1.151-rev3.dfu",
+      "size": 6230528,
+      "sha256": "35d7cfb0645a0b8309ada4508aba0ba9a3e88ecf37d4c0e08da76945271f91de",
       "chip_revision_min": 301,
       "chip_revision_max": 399,
       "minimum_layout": 4,
@@ -28,5 +28,5 @@
     }
   },
   "notes": "Secured P4 production firmware; encrypted updates for both P4 revisions.",
-  "source_commit": "3174664ef8360103c95238244dc3280e49cc3bcb"
+  "source_commit": "86e79bd6f7855946f5dc2d41f550ece544b80bd6"
 }
