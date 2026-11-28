@@ -1,0 +1,33 @@
+{
+  "schema": 2,
+  "version": "0.1.176",
+  "variants": {
+    "rev1": {
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.176/dryfire-p4-0.1.176-rev1.dfu",
+      "size": 1315328,
+      "sha256": "de5ac82722e6c2ead9d686e057c0b9734a970519e61a9ed2483566b15eeacef3",
+      "chip_revision_min": 100,
+      "chip_revision_max": 199,
+      "minimum_layout": 4,
+      "security_profile": "secure-production-v1",
+      "package_format": "esp-ecc256-rsa3072-v1",
+      "transport_key_id": "3ea72f9300a398d0332e0a4141e41ab88f777393cfb679455361124afe1aafe4",
+      "signer_id": "9d5d1ac2cf5b7c8c8ec2abac23a2b293bf98928819b1469337008b51d90050fb"
+    },
+    "rev3": {
+      "url": "https://github.com/luke5500/dryfire-p4-releases/releases/download/v0.1.176/dryfire-p4-0.1.176-rev3.dfu",
+      "size": 1315328,
+      "sha256": "70afc4e1b446b5386327f2bd796428f82add9fb6854bea7c29d9de62fd0ac908",
+      "chip_revision_min": 301,
+      "chip_revision_max": 399,
+      "minimum_layout": 4,
+      "security_profile": "secure-production-v1",
+      "package_format": "esp-ecc256-rsa3072-v1",
+      "transport_key_id": "3ea72f9300a398d0332e0a4141e41ab88f777393cfb679455361124afe1aafe4",
+      "signer_id": "9d5d1ac2cf5b7c8c8ec2abac23a2b293bf98928819b1469337008b51d90050fb"
+    }
+  },
+  "update_bridge": true,
+  "notes": "Secure update service (step 1 of 2).",
+  "source_commit": "622c3f8a5b4df44ee8f2bb8620fc7d90ff0fe880"
+}
